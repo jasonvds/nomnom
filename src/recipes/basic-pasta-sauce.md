@@ -4,7 +4,7 @@ image: /img/recipes/pasta-sauce.png
 tags:
     - Vegetarian 🌿
     - Vegan 🌱
-    - Italian
+    - Italian 🇮🇹
 sourceLabel: Mario Batali
 ingredients:
 - 1/4 cup extra-virgin olive oil
