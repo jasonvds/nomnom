@@ -1,11 +1,12 @@
 ---
-title: Basic Pasta Sauce
+title: Basic pasta sauce
 image: /img/recipes/pasta-sauce.png
 tags:
     - Vegetarian 🌿
     - Vegan 🌱
     - Italian 🇮🇹
 sourceLabel: Mario Batali
+time: 45 min
 ingredients:
 - 1/4 cup extra-virgin olive oil
 - 1 large onion, cut into 1/4-inch dice
@@ -13,7 +14,7 @@ ingredients:
 - 3 tablespoons chopped fresh thyme leaves, or 1 tablespoon dried
 - 1 tablespoon red pepper flakes, optional
 - 1 medium carrot, finely shredded
-- 2 28-ounce cans peeled whole tomatoes, crushed by hand and juices reserved
+- 2 x 28-ounce cans peeled whole tomatoes, crushed by hand and juices reserved
 - Kosher salt, to taste
 ---
 
