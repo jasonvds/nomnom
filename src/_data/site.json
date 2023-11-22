@@ -1,12 +1,12 @@
 {
-    "name": "11ty Cookbook",
+    "name": "Online Cookbook",
     "metaDescription": "The online cookbook of Jason",
     "author": "Jason",
-    "primaryColor": "#326881",
+    "primaryColor": "#70baff",
     "secondaryColor": "#32816e",
     "searchLabel": "Find recipes by name, tag or ingredients",
     "searchContainsLabel": "Contains",
     "servingsLabel": "servings",
     "ingredientsLabel": "Ingredients",
-    "baseURL": "https://11ty-cookbook.netlify.app/"
+    "baseURL": "https://myonlinecookbook.netlify.app"
 }
