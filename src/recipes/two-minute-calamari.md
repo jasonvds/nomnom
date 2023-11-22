@@ -1,8 +1,9 @@
 ---
 title: Two-minute calamari, sicilian lifeguard style
-image: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/richchocolatebrownie_1933_16x9.jpg
+image: /img/recipes/two-minute-calamari.jpg
 tags:
   - Favourite ⭐
+  - Italian 🇮🇹
 time: 45 min
 servings: 4
 sourceLabel: Avec Eric
