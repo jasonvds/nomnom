@@ -1,6 +1,6 @@
 ---
-title: Two-minute calamari, sicilian lifeguard style
-image: /img/recipes/two-minute-calamari.jpg
+title: Two-minute calamari, Sicilian lifeguard style
+image: /img/recipes/two-minute-calamari.png
 tags:
   - Favourite ⭐
   - Italian 🇮🇹
@@ -37,7 +37,7 @@ In a 12- to 14-inch sauté pan, heat the olive oil until just smoking.
 
 Add the pine nuts, currants, and red pepper flakes, if desired, and sauté until the nuts are just golden brown, about 2 minutes. 
 
-Add the caperberries, tomato sauce, wine, and couscous and bring to a boil. 
+Add the caperberries, [tomato sauce](/recipes/basic-pasta-sauce/), wine, and couscous and bring to a boil. 
 
 Add the calamari and scallion whites, stir to combine, and simmer for 2 to 3 minutes, or until the calamari is just cooked and completely opaque. 
 

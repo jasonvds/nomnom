@@ -3,3 +3,4 @@ _site/
 src/_includes/css/
 node_modules/
 src/img/.DS_Store
+src/img/recipes/.DS_Store
