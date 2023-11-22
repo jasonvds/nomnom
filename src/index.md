@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: This cookbook belongs to Jason
 authorInTitle: true
 metaTitle: Home
 highlightedTag: Favourite ⭐
