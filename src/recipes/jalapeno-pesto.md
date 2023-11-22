@@ -1,6 +1,6 @@
 ---
 title: Jalapeno pesto
-image: /img/recipes/pasta-sauce.png
+image: /img/recipes/jalapeno-pesto.png
 tags:
     - Vegetarian 🌿
     - Vegan 🌱
