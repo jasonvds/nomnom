@@ -3,7 +3,6 @@ title: Lemon feta orzo salad
 image: /img/recipes/lemon-feta-orzo.png
 tags:
  - Vegetarian 🌿
- - Vegan 🌱
  - Italian 🇮🇹
  - Favourite ⭐
 sourceLabel: The modern Nonna
