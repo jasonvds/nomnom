@@ -2,6 +2,8 @@
 title: Zesty quinoa salad
 servings: 6
 time: 35 mins
+tags:
+  - Favourite ⭐
 ingredients:
 	- 2 cups water
 ---
