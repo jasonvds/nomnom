@@ -8,6 +8,7 @@ tags:
  - Favourite ⭐
 sourceLabel: The modern Nonna
 time: 15 min
+servings: 4
 ingredients:
 - 1 cup (8 ounces) orzo
 - 1/4 cup olive oil
