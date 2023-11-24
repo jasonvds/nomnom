@@ -1,6 +1,6 @@
 ---
 title: Zesty quinoa salad
-image: /img/recipes/two-minute-calamari.png
+image: /img/recipes/zesty-quinoa-salad.jpg
 servings: 6
 time: 35 mins
 tags:
